@@ -8,7 +8,7 @@ the data consists of a number of csvs in a zip file, per year
 
 Your README file should describe:
 
-The goals of your project
-Your though process and methods in creating the project
-How to install your project
-How to run your project
+1. The goals of your project
+2. Your though process and methods in creating the project
+3. How to install your project
+4. How to run your project
