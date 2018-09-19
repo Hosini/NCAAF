@@ -4,3 +4,11 @@ http://opendata.stackexchange.com/questions/3500/open-replacement-for-cfbstats-c
 wayback machine link:
 http://web.archive.org/web/20140128204311/http://www.cfbstats.com/blog/college-football-data/
 the data consists of a number of csvs in a zip file, per year
+
+
+Your README file should describe:
+
+The goals of your project
+Your though process and methods in creating the project
+How to install your project
+How to run your project
